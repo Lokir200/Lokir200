@@ -31,11 +31,11 @@
   <img width="12" />
 
   <!-- ROS / ROS 2 and RViz (use ROS logo for both) -->
-  <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" height="30" alt="ROS / ROS 2" />
+  <img src="https://avatars.githubusercontent.com/u/3979232?s=280&v=4" height="30" alt="ROS / ROS 2" />
   <img width="12" />
 
   <!-- CARLA -->
-  <img src="https://carla.org/img/logo/carla-black-m.png" height="30" alt="CARLA" />
+  <img src="https://i.ytimg.com/vi/tWAg1fIDNCg/maxresdefault.jpg" height="30" alt="CARLA" />
 
   <!-- Power BI via Shields (kept as badge for consistent brand color) -->
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" height="30" alt="Power BI" />
