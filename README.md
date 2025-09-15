@@ -9,40 +9,40 @@
 
 <div align="left">
   <!-- Core languages/tools via Devicon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" alt="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="30" alt="R" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="30" alt="AngularJS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" height="30" alt="AngularJS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="30" alt="Django" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS logo" />
-  <img width="12" />
-
-  <!-- ROS / ROS 2 and RViz (use ROS mark) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Robot_Operating_System_logo.svg" height="30" alt="ROS / ROS 2 logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Robot_Operating_System_logo.svg" height="30" alt="RViz (ROS) logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS" />
   <img width="12" />
 
-  <!-- CARLA (replace CARLA_LOGO_URL with a preferred logo asset if desired) -->
-  <img src="https://carla.org/favicon.png" height="30" alt="CARLA logo" />
+  <!-- ROS / ROS 2 and RViz (use ROS logo for both) -->
+  <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" height="30" alt="ROS / ROS 2" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" height="30" alt="RViz (ROS)" />
   <img width="12" />
 
-  <!-- Power BI via Simple Icons (through shields) -->
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" height="30" alt="Power BI logo" />
+  <!-- CARLA -->
+  <img src="https://carla.org/img/logo/carla-black-m.png" height="30" alt="CARLA" />
+
+  <!-- Power BI via Shields (kept as badge for consistent brand color) -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" height="30" alt="Power BI" />
 </div>
+
 
 <div align="left">
   <a href="https://www.youtube.com/channel/FIJyznB1ouP9WkUB4kGpLA" target="_blank">
