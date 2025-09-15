@@ -27,13 +27,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS" />
+  <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" height="30" alt="AWS" />
   <img width="12" />
 
   <!-- ROS / ROS 2 and RViz (use ROS logo for both) -->
   <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" height="30" alt="ROS / ROS 2" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" height="30" alt="RViz (ROS)" />
   <img width="12" />
 
   <!-- CARLA -->
