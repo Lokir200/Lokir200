@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Alok R and I'm a Student, from India.</h2>
+<h2 align="left">Hi 👋! My name is Alok R .</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lokir200&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
@@ -8,19 +8,40 @@
 <img align="right" height="150" src="https://i.pinimg.com/originals/11/7e/c0/117ec003af87e325aef9a4d5a6da1139.gif" alt="fun gif" />
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <!-- Core languages/tools via Devicon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="30" alt="AngularJS logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS logo" />
+  <img width="12" />
+
+  <!-- ROS / ROS 2 and RViz (use ROS mark) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Robot_Operating_System_logo.svg" height="30" alt="ROS / ROS 2 logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Robot_Operating_System_logo.svg" height="30" alt="RViz (ROS) logo" />
+  <img width="12" />
+
+  <!-- CARLA (replace CARLA_LOGO_URL with a preferred logo asset if desired) -->
+  <img src="https://carla.org/favicon.png" height="30" alt="CARLA logo" />
+  <img width="12" />
+
+  <!-- Power BI via Simple Icons (through shields) -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" height="30" alt="Power BI logo" />
 </div>
 
 <div align="left">
