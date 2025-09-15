@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ALOK R and I'm a student, from Amrita Vishwa Vidyapeetham</h2>
+<h2 align="left">Hi 👋! My name is ALOK R. The rest of the info figure it out by yourself</h2>
 
 ###
 
