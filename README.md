@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is, what? My name is, Who? My name is chika.. chika.., Alok R .</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lokir200&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api? username=Lokir200&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lokir200&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 <img align="right" height="150" src="https://i.pinimg.com/originals/11/7e/c0/117ec003af87e325aef9a4d5a6da1139.gif" alt="fun gif" />
