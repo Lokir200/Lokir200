@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is, what? My name is, Who? My name is chika.. chika.., Alok R .</h2>
+
 
 <div align="center">
  
