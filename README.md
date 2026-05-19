@@ -59,4 +59,4 @@
 </div>
 
 <br clear="both" />
-<img src="https://raw.githubusercontent.com/Lokir200/Lokir200/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AlokROfficial/Lokir200/output/snake.svg" alt="Snake animation" />
